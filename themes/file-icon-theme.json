@@ -1,0 +1,34 @@
+{
+  "$schema": "vscode://schemas/icon-theme",
+  "usesCurrentColor": true,
+  "iconDefinitions": {
+    "_file": { "iconPath": "../icons/file-text.svg" },
+    "_folder": { "iconPath": "../icons/folder.svg" },
+    "_folder_expanded": { "iconPath": "../icons/folder-open.svg" },
+    "_script": { "iconPath": "../icons/script.svg" },
+    "_json": { "iconPath": "../icons/json.svg" },
+    "_python": { "iconPath": "../icons/python-solid.svg" },
+    "_cpp": { "iconPath": "../icons/cpp.svg" },
+    "_css": { "iconPath": "../icons/css-solid.svg" },
+    "_md": { "iconPath": "../icons/markdown-solid.svg" }
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder_expanded",
+  "fileExtensions": {
+    "ts": "_script",
+    "js": "_script",
+    "cjs": "_script",
+    "mjs": "_script",
+    "json": "_json",
+    "py": "_python",
+    "cpp": "_cpp",
+    "css": "_css",
+    "md": "_md",
+    "mdx": "_md",
+    
+  },
+  // "fileNames": {
+    
+  // },
+}

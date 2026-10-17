@@ -1,0 +1,47 @@
+{
+  "name": "vscode-pixel-icons",
+  "displayName": "Pixel Icons",
+  "version": "1.0.0",
+  "description": "Vscode file and system icons theme using PixelArtIcons",
+  "publisher": "kingoftac",
+  "icon": "",
+  "galleryBanner": {
+    "color": "",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingOfTac/vscode-pixel-icons.git"
+  },
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KingOfTac/vscode-pixel-icons/issues"
+  },
+  "homepage": "https://github.com/KingOfTac/vscode-pixel-icons#readme",
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "pixel-file-icons",
+        "label": "Pixel File Icons",
+        "path": "./themes/file-icon-theme.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "pixel-product-icons",
+        "label": "Pixel Product Icons",
+        "path": "./themes/product-icon-theme.json"
+      }
+    ]
+  }
+}
