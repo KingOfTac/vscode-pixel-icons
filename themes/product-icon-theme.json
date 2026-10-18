@@ -29,6 +29,12 @@
     "source-control-view-icon": {
       "fontCharacter": "\\e003"
     },
+    "git-branch": {
+      "fontCharacter": "\\e003"
+    },
+    "git-branch-compact": {
+      "fontCharacter": "\\e003"
+    },
     "test-view-icon": {
       "fontCharacter": "\\e005"
     },
@@ -37,6 +43,39 @@
     },
     "account": {
       "fontCharacter": "\\e007"
+    },
+    "settings-gear": {
+      "fontCharacter": "\\e008"
+    },
+    "copilot": {
+      "fontCharacter": "\\e009"
+    },
+    "copilot-compact": {
+      "fontCharacter": "\\e009"
+    },
+    "bell": {
+      "fontCharacter": "\\e00a"
+    },
+    "error": {
+      "fontCharacter": "\\e00b"
+    },
+    "warning": {
+      "fontCharacter": "\\e00c"
+    },
+    "sync": {
+      "fontCharacter": "\\e00d"
+    },
+    "new-file": {
+      "fontCharacter": "\\e00e"
+    },
+    "new-folder": {
+      "fontCharacter": "\\e00f"
+    },
+    "refresh": {
+      "fontCharacter": "\\e010"
+    },
+    "collapse-all": {
+      "fontCharacter": "\\e011"
     }
   }
 }

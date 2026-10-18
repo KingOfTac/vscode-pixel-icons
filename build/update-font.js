@@ -5,15 +5,25 @@ import { join } from 'node:path';
 const __dirname = import.meta.dirname;
 
 const svgs = [
-  "files.svg",
-  "search.svg",
-  "debug-play.svg",
-  "git-branch.svg",
-  "puzzle.svg",
-  "flask.svg",
-  "chevron-down-2.svg",
-  "user.svg"
-].map(name => join(__dirname, '..', 'icons', name).replaceAll('\\', '/'));
+  "files",
+  "search",
+  "debug-play",
+  "git-branch",
+  "puzzle",
+  "flask",
+  "chevron-down-2",
+  "user",
+  "settings-cog",
+  "robot-face-sleeping",
+  "bell",
+  "octagon-x",
+  "warning-diamond",
+  "refresh",
+  "file-plus",
+  "folder-plus",
+  "rotate-cw",
+  "copy-minus"
+].map(name => join(__dirname, '..', 'icons', `${name}.svg`).replaceAll('\\', '/'));
 
 async function generateFont() {
   try {
