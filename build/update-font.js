@@ -22,7 +22,10 @@ const svgs = [
   "file-plus",
   "folder-plus",
   "rotate-cw",
-  "copy-minus"
+  "copy-minus",
+  "close",
+  "save",
+  "copy-x"
 ].map(name => join(__dirname, '..', 'icons', `${name}.svg`).replaceAll('\\', '/'));
 
 async function generateFont() {
