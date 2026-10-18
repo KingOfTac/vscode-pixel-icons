@@ -1,7 +1,7 @@
 {
   "name": "vscode-pixel-icons",
   "displayName": "Monochrome Pixel Icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vscode file and system icons theme using PixelArtIcons",
   "publisher": "kingoftac",
   "icon": "./media/thumbnail.png",
@@ -18,7 +18,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "BSD-3-Clause",
   "type": "module",
   "bugs": {
     "url": "https://github.com/KingOfTac/vscode-pixel-icons/issues"
