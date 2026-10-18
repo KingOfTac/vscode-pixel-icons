@@ -28,6 +28,12 @@
     },
     "source-control-view-icon": {
       "fontCharacter": "\\e003"
+    },
+    "test-view-icon": {
+      "fontCharacter": "\\e005"
+    },
+    "tree-item-expanded": {
+      "fontCharacter": "\\e007"
     }
   }
 }

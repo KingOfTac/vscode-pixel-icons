@@ -4,7 +4,7 @@
   "iconDefinitions": {
     "_file": { "iconPath": "../icons/file-text.svg" },
     "_folder": { "iconPath": "../icons/folder.svg" },
-    "_folder_expanded": { "iconPath": "../icons/folder-open.svg" },
+    "_folder_expanded": { "iconPath": "../icons/folder-open-solid.svg" },
     "_script": { "iconPath": "../icons/script.svg" },
     "_json": { "iconPath": "../icons/json.svg" },
     "_python": { "iconPath": "../icons/python-solid.svg" },
@@ -26,7 +26,7 @@
     "css": "_css",
     "md": "_md",
     "mdx": "_md",
-    
+
   },
   // "fileNames": {
     

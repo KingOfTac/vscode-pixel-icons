@@ -11,6 +11,8 @@ const svgs = [
   "git-branch.svg",
   "puzzle.svg",
   "flask.svg",
+  "chevron-right-2.svg",
+  "chevron-down-2.svg"
 ].map(name => join(__dirname, '..', 'icons', name).replaceAll('\\', '/'));
 
 async function generateFont() {
