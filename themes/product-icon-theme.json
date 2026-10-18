@@ -33,6 +33,9 @@
       "fontCharacter": "\\e005"
     },
     "tree-item-expanded": {
+      "fontCharacter": "\\e006"
+    },
+    "account": {
       "fontCharacter": "\\e007"
     }
   }
