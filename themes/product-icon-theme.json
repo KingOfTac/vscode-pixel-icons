@@ -32,6 +32,9 @@
     "source-control-view-icon": {
       "fontCharacter": "\\e003"
     },
+    "source-control": {
+      "fontCharacter": "\\e003"
+    },
     "git-branch": {
       "fontCharacter": "\\e003"
     },
@@ -152,6 +155,9 @@
     "auxiliarybar-maximize": {
       "fontCharacter": "\\e025"
     },
+    "panel-maximize": {
+      "fontCharacter": "\\e025"
+    },
     "filter": {
       "fontCharacter": "\\e026"
     },
@@ -172,6 +178,75 @@
     },
     "search-tree": {
       "fontCharacter": "\\e02c"
+    },
+    "list-flat": {
+      "fontCharacter": "\\e02c"
+    },
+    "list-tree": {
+      "fontCharacter": "\\e02b"
+    },
+    "go-to-file": {
+      "fontCharacter": "\\e02d"
+    },
+    "folder-opened": {
+      "fontCharacter": "\\e02e"
+    },
+    "case-sensitive": {
+      "fontCharacter": "\\e02f"
+    },
+    // "whole-word": {
+    //   "fontCharacter": "\\e030"
+    // },
+    "regex": {
+      "fontCharacter": "\\e030"
+    },
+    "preserve-case": {
+      "fontCharacter": "\\e031"
+    },
+    "search-replace-all": {
+      "fontCharacter": "\\e032"
+    },
+    "sparkle": {
+      "fontCharacter": "\\e033"
+    },
+    "check": {
+      "fontCharacter": "\\e034"
+    },
+    "target": {
+      "fontCharacter": "\\e035"
+    },
+    "cloud": {
+      "fontCharacter": "\\e036"
+    },
+    "diff-multiple": {
+      "fontCharacter": "\\e037"
+    },
+    "trash": {
+      "fontCharacter": "\\e02a"
+    },
+    "agent-compact": {
+      "fontCharacter": "\\e01e"
+    },
+    "ask": {
+      "fontCharacter": "\\e039"
+    },
+    "checklist": {
+      "fontCharacter": "\\e038"
+    },
+    "file": {
+      "fontCharacter": "\\e03a"
+    },
+    "settings-compact": {
+      "fontCharacter": "\\e03b"
+    },
+    "mic-compact": {
+      "fontCharacter": "\\e03c"
+    },
+    "vm-compact": {
+      "fontCharacter": "\\e03d"
+    },
+    "shield-compact": {
+      "fontCharacter": "\\e03e"
     }
   }
 }

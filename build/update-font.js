@@ -49,7 +49,25 @@ const svgs = [
   "plus",
   "trash",
   "bulletlist-2",
-  "queue-list"
+  "queue-list",
+  "file-play",
+  "folder-open",
+  "case-sensitive",
+  "regex",
+  "case-upper",
+  "find-and-replace",
+  "sparkles",
+  "check",
+  "target",
+  "cloud",
+  "diff",
+  "checklist",
+  "chatbot",
+  "file",
+  "settings-2",
+  "mic",
+  "laptop",
+  "vpn"
 ].map(name => join(__dirname, '..', 'icons', `${name}.svg`).replaceAll('\\', '/'));
 
 async function generateFont() {
