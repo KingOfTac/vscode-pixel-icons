@@ -20,6 +20,9 @@
     "search-view-icon": {
       "fontCharacter": "\\e001"
     },
+    "search": {
+      "fontCharacter": "\\e001"
+    },
     "run-view-icon": {
       "fontCharacter": "\\e002"
     },
@@ -91,6 +94,84 @@
     },
     "close-all": {
       "fontCharacter": "\\e014"
+    },
+    "toolbar-more": {
+      "fontCharacter": "\\e015"
+    },
+    "split-horizontal": {
+      "fontCharacter": "\\e01c"
+    },
+    "layout-sidebar-right-off": {
+      "fontCharacter": "\\e018"
+    },
+    "layout-sidebar-right": {
+      "fontCharacter": "\\e019"
+    },
+    "panel-left-off": {
+      "fontCharacter": "\\e016"
+    },
+    "panel-left": {
+      "fontCharacter": "\\e017"
+    },
+    "auxiliarybar-right-off-layout-icon": {
+      "fontCharacter": "\\e018"
+    },
+    "auxiliarybar-right-layout-icon": {
+      "fontCharacter": "\\e019"
+    },
+    "panel-layout-icon-off": {
+      "fontCharacter": "\\e01a"
+    },
+    "panel-layout-icon": {
+      "fontCharacter": "\\e01b"
+    },
+    "configure-layout-icon": {
+      "fontCharacter": "\\e01d"
+    },
+    "agent": {
+      "fontCharacter": "\\e01e"
+    },
+    "chat-sparkle": {
+      "fontCharacter": "\\e01f"
+    },
+    "bell-dot": {
+      "fontCharacter": "\\e020"
+    },
+    "bracket": {
+      "fontCharacter": "\\e021"
+    },
+    "remote": {
+      "fontCharacter": "\\e022"
+    },
+    "symbol-function": {
+      "fontCharacter": "\\e023"
+    },
+    "expand-all": {
+      "fontCharacter": "\\e024"
+    },
+    "auxiliarybar-maximize": {
+      "fontCharacter": "\\e025"
+    },
+    "filter": {
+      "fontCharacter": "\\e026"
+    },
+    "filter-filled": {
+      "fontCharacter": "\\e027"
+    },
+    "chevron-down": {
+      "fontCharacter": "\\e028"
+    },
+    "plus": {
+      "fontCharacter": "\\e029"
+    },
+    "search-clear-results": {
+      "fontCharacter": "\\e02a"
+    },
+    "search-list": {
+      "fontCharacter": "\\e02b"
+    },
+    "search-tree": {
+      "fontCharacter": "\\e02c"
     }
   }
 }

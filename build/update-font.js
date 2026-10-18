@@ -25,7 +25,31 @@ const svgs = [
   "copy-minus",
   "close",
   "save",
-  "copy-x"
+  "copy-x",
+  "more-horizontal-solid",
+  "layout-left",
+  "layout-left-on",
+  "layout-right",
+  "layout-right-on",
+  "layout-bottom",
+  "layout-bottom-on",
+  "split",
+  "grid-2x2-2-plus",
+  "agent",
+  "message-dots",
+  "bell-dot-solid",
+  "brackets",
+  "terminal-2",
+  "cube",
+  "copy-plus",
+  "fullscreen",
+  "filter",
+  "filter-solid",
+  "chevron-down",
+  "plus",
+  "trash",
+  "bulletlist-2",
+  "queue-list"
 ].map(name => join(__dirname, '..', 'icons', `${name}.svg`).replaceAll('\\', '/'));
 
 async function generateFont() {
