@@ -1,3 +1,3 @@
-# vscode-pixel-icons
+# Monochrome Pixel Icons
 
-Vscode file and system icons theme using [PixelArtIcons](https://pixelarticons.com/)
+Minimal, single-color file and system icons theme for vscode using [PixelArtIcons](https://pixelarticons.com/)
