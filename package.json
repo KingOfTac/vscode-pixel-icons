@@ -19,7 +19,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/KingOfTac/vscode-pixel-icons/issues"
   },
@@ -43,5 +43,11 @@
         "path": "./themes/product-icon-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "build:font": "node ./build/update-font.js"
+  },
+  "devDependencies": {
+    "webfont": "^12.7.0"
   }
 }
