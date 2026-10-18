@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Vscode file and system icons theme using PixelArtIcons",
   "publisher": "kingoftac",
-  "icon": "",
+  "icon": "./media/thumbnail.png",
   "galleryBanner": {
     "color": "",
     "theme": "dark"
@@ -45,9 +45,15 @@
     ]
   },
   "scripts": {
-    "build:font": "node ./build/update-font.js"
+    "build:font": "node ./build/update-font.js",
+    "show:font": "open-cli ./themes/pixel-icons.html",
+    "vscode:prepublish": "npm run build:font",
+    "publish": "vsce publish"
   },
   "devDependencies": {
     "webfont": "^12.7.0"
+  },
+  "dependencies": {
+    "open-cli": "^9.0.0"
   }
 }

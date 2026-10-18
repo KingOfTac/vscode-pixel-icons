@@ -1,0 +1,9 @@
+*
+*/**
+*/**/*
+!README.md
+!package.json
+!themes/file-icon-theme.json
+!themes/product-icon-theme.json
+!themes/pixel-icons.woff
+!media/*

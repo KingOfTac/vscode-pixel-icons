@@ -10,7 +10,9 @@
     "_python": { "iconPath": "../icons/python-solid.svg" },
     "_cpp": { "iconPath": "../icons/cpp.svg" },
     "_css": { "iconPath": "../icons/css-solid.svg" },
-    "_md": { "iconPath": "../icons/markdown-solid.svg" }
+    "_md": { "iconPath": "../icons/markdown-solid.svg" },
+    "_img": { "iconPath": "../icons/image.svg" },
+    "_react": { "iconPath": "../icons/react.svg" }
   },
   "file": "_file",
   "folder": "_folder",
@@ -26,7 +28,13 @@
     "css": "_css",
     "md": "_md",
     "mdx": "_md",
-
+    "svg": "_img",
+    "png": "_img",
+    "jpg": "_img",
+    "jpeg": "_img",
+    "jpegxl": "_img",
+    "webp": "_img",
+    "tsx": "_react"
   },
   "fileNames": {
     
