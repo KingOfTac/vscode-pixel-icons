@@ -146,6 +146,9 @@
     "remote": {
       "fontCharacter": "\\e022"
     },
+    "terminal": {
+      "fontCharacter": "\\e022"
+    },
     "symbol-function": {
       "fontCharacter": "\\e023"
     },
