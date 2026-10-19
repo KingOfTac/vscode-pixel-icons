@@ -12,7 +12,14 @@
     "_css": { "iconPath": "../icons/css-solid.svg" },
     "_md": { "iconPath": "../icons/markdown-solid.svg" },
     "_img": { "iconPath": "../icons/image.svg" },
-    "_react": { "iconPath": "../icons/react.svg" }
+    "_react": { "iconPath": "../icons/react.svg" },
+    "_abc": { "iconPath": "../icons/abc.svg" },
+    "_ai": { "iconPath": "../icons/adobe-illustrator.svg" },
+    "_psd": { "iconPath": "../icons/adobe-photoshop.svg" },
+    "_indd": { "iconPath": "../icons/adobe-indesign.svg" },
+    "_docx": { "iconPath": "../icons/microsoft-word.svg" },
+    "_pptx": { "iconPath": "../icons/microsoft-powerpoint.svg" },
+    "_xlsx": { "iconPath": "../icons/microsoft-excel.svg" },
   },
   "file": "_file",
   "folder": "_folder",
@@ -34,9 +41,21 @@
     "jpeg": "_img",
     "jpegxl": "_img",
     "webp": "_img",
-    "tsx": "_react"
-  },
-  "fileNames": {
-    
+    "tsx": "_react",
+    "otf": "_abc",
+    "ttf": "_abc",
+    "ttc": "_abc",
+    "woff": "_abc",
+    "woff2": "_abc",
+    "eot": "_abc",
+    "pfa": "_abc",
+    "pfb": "_abc",
+    "afm": "_abc",
+    "amfm": "_abc",
+    "acfm": "_abc",
+    "dfont": "_abc",
+    "ai": "_ai",
+    "psd": "_psd",
+    "indd": "_indd"
   },
 }
