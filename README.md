@@ -14,3 +14,5 @@ Minimal, single-color file and system icons theme for vscode using [PixelArtIcon
 
 - Added Adobe file icons
 - Added Office365 file icons
+- Added JS and TS file icons
+- Added icon for various AI instructions files

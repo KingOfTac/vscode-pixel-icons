@@ -20,15 +20,18 @@
     "_docx": { "iconPath": "../icons/microsoft-word.svg" },
     "_pptx": { "iconPath": "../icons/microsoft-powerpoint.svg" },
     "_xlsx": { "iconPath": "../icons/microsoft-excel.svg" },
+    "_js": { "iconPath": "../icons/js-solid.svg" },
+    "_ts": { "iconPath": "../icons/ts-solid.svg" },
+    "_ai_file": { "iconPath": "../icons/ai-file-2.svg" }
   },
   "file": "_file",
   "folder": "_folder",
   "folderExpanded": "_folder_expanded",
   "fileExtensions": {
-    "ts": "_script",
-    "js": "_script",
-    "cjs": "_script",
-    "mjs": "_script",
+    "ts": "_ts",
+    "js": "_js",
+    "cjs": "_js",
+    "mjs": "_js",
     "json": "_json",
     "py": "_python",
     "cpp": "_cpp",
@@ -58,4 +61,12 @@
     "psd": "_psd",
     "indd": "_indd"
   },
+  "fileNames": {
+    "llms.txt": "_ai_file",
+    "llms-full.txt": "_ai_file",
+    "CLAUDE.md": "_ai_file",
+    "AGENTS.md": "_ai_file",
+    "GEMINI.md": "_ai_file",
+    "copilot-instructions.md": "_ai_file"
+  }
 }
