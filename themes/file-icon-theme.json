@@ -22,7 +22,11 @@
     "_xlsx": { "iconPath": "../icons/microsoft-excel.svg" },
     "_js": { "iconPath": "../icons/js-solid.svg" },
     "_ts": { "iconPath": "../icons/ts-solid.svg" },
-    "_ai_file": { "iconPath": "../icons/ai-file-2.svg" }
+    "_ai_file": { "iconPath": "../icons/ai-file-2.svg" },
+    "_github": { "iconPath": "../icons/github.svg" },
+    "_github_expanded": { "iconPath": "../icons/github-solid.svg" },
+    "_component_folder": { "iconPath": "../icons/component.svg" },
+    "_component_folder_expanded": { "iconPath": "../icons/component-solid.svg" }
   },
   "file": "_file",
   "folder": "_folder",
@@ -68,5 +72,13 @@
     "AGENTS.md": "_ai_file",
     "GEMINI.md": "_ai_file",
     "copilot-instructions.md": "_ai_file"
+  },
+  "folderNames": {
+    "components": "_component_folder",
+    ".github": "_github",
+  },
+  "folderNamesExpanded": {
+    "components": "_component_folder_expanded",
+    ".github": "_github_expanded",
   }
 }

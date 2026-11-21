@@ -1,7 +1,7 @@
 {
   "name": "vscode-pixel-icons",
   "displayName": "Monochrome Pixel Icons",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Vscode file and system icons theme using PixelArtIcons",
   "publisher": "kingoftac",
   "icon": "./media/thumbnail.png",
