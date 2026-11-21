@@ -21,3 +21,7 @@ Minimal, single-color file and system icons theme for vscode using [PixelArtIcon
 
 - Added Github folder icon
 - Added icon for components/ folders
+
+### v1.0.5
+
+- New marketplace thumbnail
